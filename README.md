@@ -1,4 +1,4 @@
-# ## ## AWS Networking Lab — EC2 and NGINX
+#  AWS Networking Lab — EC2 and NGINX
 
 ### Project Overview
 
